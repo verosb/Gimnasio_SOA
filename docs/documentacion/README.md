@@ -1,6 +1,6 @@
 GymProgress es una aplicación web diseñada para la recopilación y gestión de los datos de los usuarios de un gimnasio. Su objetivo es proporcionar una plataforma personal, donde los usuarios puedan registrar y hacer seguimiento de su rutina de ejercicios, peso y otros datos relevantes, con el fin de poder gestionar su progreso y avances de manera efectiva.
 
-Con esta herramienta, los usuarios pueden llevar un control detallado de sus entrenamientos, permitiendo monitorear la evolución de su rendimiento y motivarlos a cumplir sus metas de fitness.
+
 
 Objetivo y Alcance El principal objetivo de GymProgress es ofrecer una solución tecnológica que permita a los usuarios gestionar de manera eficiente su entrenamiento físico. Con esta plataforma, los usuarios podrán:
 
