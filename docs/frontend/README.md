@@ -18,4 +18,3 @@ styles/: Contiene archivos CSS o SCSS que definen el estilo global de la aplicac
 
 angular.json: Archivo de configuración principal de Angular donde se especifican las rutas de los archivos de configuración, scripts y estilos utilizados en la aplicación.
 
-package.json: Archivo de configuración que define las dependencias y scripts del proyecto, como las librerías de Angular y otros paquetes adicionales.
